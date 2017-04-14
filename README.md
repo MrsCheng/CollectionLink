@@ -14,3 +14,6 @@
 
 6. http://www.gcssloop.com/             (一名来自2.5次元的魔法师，Android自定义View系列文章作者，非著名程序员)
 
+7. http://www.csdn.net/                 (csdn)
+
+8. http://www.apkbus.com/               (安卓巴士)
