@@ -1,19 +1,22 @@
 "# CollectionLink" 
 
 收集一些链接
+1. http://www.android-studio.org/       (Android Studio 中文社区(官网) -Android App开发工具集)
 
-1. http://git.oschina.net/              (开源中国)
+2. http://www.androiddoc.net/index.html  (Android官网API)
 
-2. https://github.com/                  (github)
+3. http://git.oschina.net/              (开源中国)
 
-3. https://gold.xitu.io/                (掘金)
+4. https://github.com/                  (github)
 
-4. http://gank.io/                      (干货集中营)
+5. https://gold.xitu.io/                (掘金)
 
-5. http://www.jcodecraeer.com/          (泡在网上的日子)
+6. http://gank.io/                      (干货集中营)
 
-6. http://www.gcssloop.com/             (一名来自2.5次元的魔法师，Android自定义View系列文章作者，非著名程序员)
+7. http://www.jcodecraeer.com/          (泡在网上的日子)
 
-7. http://www.csdn.net/                 (csdn)
+8. http://www.gcssloop.com/             (一名来自2.5次元的魔法师，Android自定义View系列文章作者，非著名程序员)
 
-8. http://www.apkbus.com/               (安卓巴士)
+9. http://www.csdn.net/                 (csdn)
+
+10. http://www.apkbus.com/               (安卓巴士)
